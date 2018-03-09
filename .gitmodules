@@ -4,3 +4,6 @@
 [submodule "SubModuleB"]
 	path = SubModuleB
 	url = https://github.com/tjands/SubModuleB
+[submodule "SubModuleC"]
+	path = SubModuleC
+	url = https://github.com/tjands/SubModuleC
