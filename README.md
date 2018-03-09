@@ -1,2 +1,5 @@
 # ExampleProject
-Test into sub moduling
+This Project includes;
+ 1) SubModuleA
+ 2) SubModuleB
+ 3) SubModuleC
